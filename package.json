@@ -1,0 +1,11 @@
+{
+  "name": "sol-airdrop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/parthpanchal123/sol-airdrop.git",
+  "author": "parthpanchal123 <parthpanchal53@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
+  }
+}
